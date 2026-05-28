@@ -1,0 +1,32 @@
+aid: sport-data
+name: Sport Data
+description: "Get sports data from all over the world"
+url: https://sportdataapi.com
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Sports & Fitness"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Sports And Fitness
+  - Public APIs
+apis:
+  - name: Sport Data
+    description: "Get sports data from all over the world"
+    humanURL: https://sportdataapi.com
+    baseURL: https://sportdataapi.com
+    tags:
+      - Sports And Fitness
+    properties:
+      - type: Documentation
+        url: https://sportdataapi.com
+common:
+  - type: Website
+    url: https://sportdataapi.com
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
